@@ -1,0 +1,27 @@
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    border-radius: 90%;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 60px;
+}
+#s{
+    width: 50px;
+}
+.cover-content{
+    width: 1;
+}
+#cover{
+    height: 700px;
+    display: flex;
+    align-items: center;
+}
